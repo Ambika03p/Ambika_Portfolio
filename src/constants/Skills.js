@@ -182,7 +182,7 @@ export const Certifications = [
         title: "Google I/O Extended Event",
         issuer: "Google",
         date: "2024",
-        link: "https://drive.google.com/drive/u/1/home"
+        link: "https://drive.google.com/file/d/1apJ_wGLskMkTGQ5QNinIwxgIiSLM--gG/view?usp=sharing"
     },
     {
         title: "Mastering JavaScript Fundamentals",
