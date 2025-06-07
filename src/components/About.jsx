@@ -77,7 +77,7 @@ const About = () => {
                             src="/images/about.png"
                             alt="meme"
                             loading="lazy"
-                                className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] "
+                                className="w-[300px] h-[300px] md:w-[400px] md:h-[500px] "
                         />
                     </Suspense>
                 </motion.div>
