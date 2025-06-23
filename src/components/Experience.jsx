@@ -45,6 +45,35 @@ const Experience = () => {
                             </div>
                         </div>
                     </motion.li>
+                       <motion.li
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        transition={{ duration: 1 }}
+                    >
+                        <div className="flex justify-between items-start">
+                            <div className="flex-grow">
+                                <h5 className="text-2xl font-[600]">
+                                    Software Developer Intern{" "}
+                                    <span className="text-base font-[500]">
+                                        - Deckoviz Space Labs
+                                    </span>
+                                </h5>
+                                <div className="mt-2 flex gap-4 items-center">
+                                    <div className="w-[15px] h-[2px] bg-textWhite"></div>
+                                    <span>
+                                        <p>
+                                            • Contributing to the development of official websites for Deckoviz Space Labs and its new AI-focused startup, Elinity.ai, with a focus on responsive front-end interfaces and scalable backend systems.<br/>
+                                            • Assisting in building user-centric features, integrating APIs, and ensuring performance optimization across both platforms using modern web technologies.
+                                        </p>
+                                    </span>
+                                </div>
+                            </div>
+                            <div className="text-right text-gray-500 font-medium min-w-[200px] pl-4">
+                                <div>June 2025-Present</div>
+                                <div>London, UK</div>
+                            </div>
+                        </div>
+                    </motion.li>
                     <motion.li
                         initial={{ opacity: 0 }}
                         animate={{ opacity: 1 }}
